@@ -8,4 +8,4 @@ var twoSum = function(nums, target) {
     }
 };
 
-//para executar apenas o teste deste arquivo digitar npm teste "nome do arquivo"
+module.exports = TwoSum;

@@ -20,3 +20,4 @@ var plusOne = function (digits) {
     
   };
   
+  module.exports = PlusOne;

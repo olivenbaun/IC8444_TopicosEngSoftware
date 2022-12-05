@@ -23,3 +23,7 @@ const combinationSum = function(nums, target) {
         return resArr;
     }
 };
+
+
+module.exports = CombinationSum;
+
